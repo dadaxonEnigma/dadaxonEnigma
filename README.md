@@ -6,7 +6,7 @@
 
 I'm a Master's student at Innopolis University, specializing in Artificial Intelligence and Data Engineering.
 I'm passionate about machine learning, data analysis, and building AI-powered systems.
-Here, I share my academic and personal projects related to data processing, neural networks, and recommendation systems.
+Here, I share my academic and personal projects related to data processing, neural networks, and recommendation systems
 
 📌 Always open to collaboration and new challenges!
 
