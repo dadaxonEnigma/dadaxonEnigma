@@ -2,7 +2,7 @@
   <img src="https://miro.medium.com/max/3000/1*VenHzUAglmaRajxjDI_f7A.gif" width="400"/>
 </div>
 
-# 💫 Dadakhon Turgunboev
+# 🧑🏻‍💻 Dadakhon Turgunboev
 
 I'm a Master's student at Innopolis University, specializing in Artificial Intelligence and Data Engineering.
 I'm passionate about machine learning, data analysis, and building AI-powered systems.
