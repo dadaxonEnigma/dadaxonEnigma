@@ -1,4 +1,6 @@
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
+<div align="center">
+  <img src="https://miro.medium.com/max/3000/1*VenHzUAglmaRajxjDI_f7A.gif" width="400"/>
+</div>
 
 # 💫 Dadakhon Turgunboev
 
